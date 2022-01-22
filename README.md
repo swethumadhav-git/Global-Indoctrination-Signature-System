@@ -5,4 +5,4 @@ To run this java project successfully the following environment is required.
     2. SQL/ Oracle 10g
     3. JDK, JRE
     4. Tomcat server
-    5. Supported jar files
+    5. Supported jar files (All jars should be in project lib folder)
